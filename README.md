@@ -1,8 +1,6 @@
-<img  align="left" src="https://github.com/user-attachments/assets/9243329e-00a0-4a8f-9a04-41dd2951d32c" width="10%" title="welcome_icon">   
+<img  align="left" src="https://github.com/user-attachments/assets/9243329e-00a0-4a8f-9a04-41dd2951d32c" width="75" title="welcome_icon">   
 
 # WELCOME TO MY PROFILE!
-
-<br/>
 
 <p align="center" width = "100%">
     <img src="https://github.com/user-attachments/assets/716e8b88-e1fa-4add-9b9d-b8676cdbfdf3" width="15%" title="kyon" style="border: 100px solid black;">
