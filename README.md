@@ -12,18 +12,3 @@
     <img src="https://github.com/user-attachments/assets/5bfb5a5b-8543-47d3-85b2-c86b8384bd7f" width="15%" title="mikuru_asahina">
     <img src="https://github.com/user-attachments/assets/4845a537-bdbc-41e5-b06b-a3682f909ebe" width="15%" title="itsuki_koizumi">
 </p>
-
-```c++
-class Hac : public svBackKhoa{
-    int sidecharYearExp = 20;
-    string ideal_char = "Konata Izumi";
-    bool mental_illness = 1;
-public:
-    Hac();
-    ~Hac();
-};
-```
-
-
-
-
